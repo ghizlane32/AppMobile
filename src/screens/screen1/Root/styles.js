@@ -17,6 +17,9 @@ const styles = StyleSheet.create({
   highlight: {
     fontWeight: '700',
   },
+  spinnerTextStyle: {
+    color: '#2d3436',
+  },
 });
 
 export default styles;
